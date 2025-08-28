@@ -1,0 +1,3 @@
+{"latitude": "53.340", "affiliate_id": 1, "name": "Close Affiliate", "longitude": "-6.250"}
+{"latitude": "53.330", "affiliate_id": 2, "name": "South Affiliate", "longitude": "-6.260"}
+{"latitude": "53.350", "affiliate_id": 3, "name": "North Affiliate", "longitude": "-6.240"}
